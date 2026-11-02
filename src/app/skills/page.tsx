@@ -6,7 +6,7 @@ import { skillCategories } from "@/data/skills";
 export const metadata: Metadata = {
   title: "Technical Skills",
   description:
-    "Technical skills of NAVEEN R: AI and machine learning, LLM frameworks, vector databases, programming languages and cloud services.",
+    "Technical and soft skills of NAVEEN R: AI and machine learning, LLM frameworks, vector databases, programming languages, cloud services and collaboration.",
 };
 
 export default function SkillsPage() {

@@ -19,7 +19,7 @@ export const skillCategories: SkillCategory[] = [
     id: "llm-frameworks",
     title: "LLM Frameworks",
     description: "Orchestrating models, tools and retrieval pipelines.",
-    items: ["LangChain", "Ollama", "RAG Architecture"],
+    items: ["LangChain", "Ollama", "RAG Architecture", "Fine-Tuning"],
   },
   {
     id: "vector-databases",
@@ -38,5 +38,19 @@ export const skillCategories: SkillCategory[] = [
     title: "Cloud & DevOps",
     description: "Hosting and managed AI services.",
     items: ["AWS", "Amazon S3", "EC2", "Vercel"],
+  },
+  {
+    id: "soft-skills",
+    title: "Soft Skills",
+    description: "Working with stakeholders, teams and data.",
+    items: [
+      "Business Partnership",
+      "Stakeholder Reporting",
+      "Cross-Functional Coordination",
+      "Requirements Analysis",
+      "Technical Documentation",
+      "Data Governance",
+      "Mentorship",
+    ],
   },
 ];
