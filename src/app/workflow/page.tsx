@@ -35,7 +35,7 @@ export default function WorkflowPage() {
             <div className="space-y-2">
               <h2 className="font-display text-2xl font-semibold text-foreground">See the finished work</h2>
               <p className="max-w-xl text-sm leading-relaxed text-muted">
-                Explainer videos from this workflow, filterable by class, subject and length.
+                Explainer videos from this workflow.
               </p>
             </div>
             <div className="flex flex-wrap gap-3">

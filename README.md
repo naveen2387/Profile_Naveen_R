@@ -21,7 +21,7 @@ The site only shows videos whose MP4 file exists, so nothing broken is ever link
 2. Optionally copy a thumbnail to `public/thumbnails/explainers/`. A placeholder is shown without one.
 3. Add an entry to `src/data/videos.ts`. The file contains an example entry in a comment.
 
-Class, subject, concept, duration, language and creation date are all set in that entry. The filters on the Videos page use them.
+Class, subject, concept, duration, language and creation date are all set in that entry.
 
 ## Add a promo reel
 
@@ -68,7 +68,7 @@ src/
                   skills, workflow, about, contact, api/contact, sitemap, robots, OG image
   components/     layout, hero, video, projects, skills, about, workflow, contact, ui
   data/           videos, projects, profile, skills, workflow (edit these)
-  lib/            catalog (server: filters out missing media), filters, contact validation
+  lib/            catalog (server: filters out missing media), contact validation
   types/          VideoItem, ProjectItem, Profile, SkillCategory, WorkflowStep
 public/
   videos/explainers, videos/promos, thumbnails/explainers, thumbnails/promos,

@@ -102,8 +102,8 @@ export default function HomePage() {
                   <div className="space-y-2">
                     <h3 className="font-display text-lg font-semibold text-foreground">Explainer videos are on their way</h3>
                     <p className="max-w-xl text-sm leading-relaxed text-muted">
-                      Each video appears here as soon as its MP4 file is added to the library, filterable by class,
-                      subject, concept and length. Nothing is shown before the file exists.
+                      Each video appears here as soon as its MP4 file is added to the library. Nothing is shown before
+                      the file exists.
                     </p>
                   </div>
                 </div>
