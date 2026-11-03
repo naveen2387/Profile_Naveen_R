@@ -54,6 +54,31 @@ export const experience: ExperienceItem[] = [
       "Led National Service Scheme activities, including organising camps.",
   },
   {
+    id: "nss-club-president",
+    title: "President, NSS Club",
+    category: "Leadership",
+    summary: "Served as president of the NSS Club.",
+  },
+  {
+    id: "school-bell-team",
+    title: "Coordinator, School Bell Team",
+    category: "Leadership",
+    summary:
+      "Coordinated the School Bell team at an NGO, where our team worked to renovate government schools across Karnataka.",
+  },
+  {
+    id: "mysore-camp",
+    title: "Camp Leader, Mysore",
+    category: "Leadership",
+    summary: "Led a 7-day camp held in Mysore.",
+  },
+  {
+    id: "kaiwara-camp",
+    title: "Camp Coordinator, Kaiwara",
+    category: "Leadership",
+    summary: "Coordinated a 7-day camp held at Kaiwara.",
+  },
+  {
     id: "district-basketball",
     title: "District-Level School Basketball",
     category: "Sports",
